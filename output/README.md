@@ -1,0 +1,1 @@
+If this folder is empty, it means that you need to run the pelican site generation tool.
